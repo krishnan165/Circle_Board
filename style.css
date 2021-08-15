@@ -1,0 +1,14 @@
+body
+{
+   text-align:center;
+   background-position: center;
+   background-size: cover;
+   background-color:rgba(126, 10, 6, 0.322);
+}
+#my_canvas
+{
+    background-image:url("green_board.jpg");
+    border-width:7px;
+    border-style:groove;
+
+}
